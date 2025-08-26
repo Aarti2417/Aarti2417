@@ -84,7 +84,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aarti2417&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarti2417&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Aarti2417&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
