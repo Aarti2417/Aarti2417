@@ -80,6 +80,14 @@
 
 ---
 
+## 🌐 Live Demo of Projects
+[Portfolio](https://portfolio-indol-two-35.vercel.app/)
+[Wanderlust](https://wanderlust-2epf.onrender.com/listings)
+[Simon Says Game](https://aarti2417.github.io/simon-game/)
+[Spotify Clone](https://aarti2417.github.io/spotify-clone/)
+[Side Bar Menu Mini Project](https://aarti2417.github.io/sidebar-menu-project/)
+[Netflix-clone](https://aarti2417.github.io/Netflix-Clone/)
+
 ## 📊 GitHub Stats  
 
 <p align="center">
